@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesichiko&theme=tokyonight&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesichiko&theme=tokyonight&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesichiko&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesichiko&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center" style="font-size: small;">
