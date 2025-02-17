@@ -1,4 +1,4 @@
-<h1 align="center"><em>Clouds</em></h1>
+<h1 align="center"><em>Clouds</em></h1> 
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ikvuclqcm7nw643zbgu4dgx5mq&cover_image=true&theme=novatorem&show_offline=true&background_color=333333&interchange=true&bar_color=41c9d2&bar_color_cover=true"/>
@@ -11,4 +11,8 @@
 
 <p align="center" style="font-size: small;">
   <em>Finally, we are no one</em>
+</p>
+
+<p align="center" style="font-size: small;">
+  Special thanks to <a href="https://github.com/lnmangione">luigi</a> <a href="https://github.com/torvalds">torvals</a>!
 </p>
