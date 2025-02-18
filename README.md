@@ -14,5 +14,5 @@
 </p>
 
 <p align="center" style="font-size: small;">
-  Special thanks to <a href="https://github.com/lnmangione">luigi</a> <a href="https://github.com/torvalds">torvals</a>
+  Special thanks to <a href="https://github.com/torvalds">torvals</a>
 </p>
